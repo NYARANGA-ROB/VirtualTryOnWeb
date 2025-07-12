@@ -30,13 +30,7 @@ Deploying this application on Render is a breeze. Follow these simple steps:
     *   **Start Command:** `gunicorn app:app`
 3.  Enjoy your live, fully functional virtual try-on web application!
 
-## 🙌 Contributing 🙌
 
-We welcome contributions from the community! To contribute:
-
-1.  Fork the repository.
-2.  Create a new branch for your feature or bug fix.
-3.  Submit a pull request with your changes.
 
 
 
