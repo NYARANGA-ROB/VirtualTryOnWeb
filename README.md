@@ -20,7 +20,6 @@ This cutting-edge web application revolutionizes the online shopping experience 
 
 ## ⚙️ Deployment ⚙️
 
-
 Deploying this application on Render is a breeze. Follow these simple steps:
 
 1.  Sign up for a Render account and connect your GitHub repository.
@@ -29,6 +28,7 @@ Deploying this application on Render is a breeze. Follow these simple steps:
     *   **Build Command:** `pip install -r requirements.txt`
     *   **Start Command:** `gunicorn app:app`
 3.  Enjoy your live, fully functional virtual try-on web application!
+
 
 
 
