@@ -12,7 +12,6 @@ This cutting-edge web application revolutionizes the online shopping experience 
 *   **📱 Mobile-First Design:** Enjoy a seamless experience on any device, thanks to our responsive and mobile-first design.
 *   **🔒 Secure and Private:** Your privacy is our top priority. All images are processed securely and are never stored on our servers.
 
-
 ## 🛠️ Technologies Used 🛠️
 
 *   **🐍 Flask:** A lightweight and flexible Python web framework for building the application's backend.
@@ -31,6 +30,7 @@ Deploying this application on Render is a breeze. Follow these simple steps:
     *   **Build Command:** `pip install -r requirements.txt`
     *   **Start Command:** `gunicorn app:app`
 3.  Enjoy your live, fully functional virtual try-on web application!
+
 
 
 
