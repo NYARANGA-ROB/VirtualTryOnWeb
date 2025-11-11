@@ -3,7 +3,6 @@
 ## 🌟 Overview 🌟
 
 This cutting-edge web application revolutionizes the online shopping experience by allowing users to virtually try on clothing items with unparalleled realism. Leveraging state-of-the-art AI and image processing techniques, powered by the Pixelcut API, our application seamlessly merges user-uploaded images with desired garments, providing a realistic preview of how the clothing will look. Built with Flask, a robust Python web framework, and designed for effortless deployment on platforms like Render, this application is poised to transform e-commerce.
-
 ## 🚀 Features 🚀
 
 *   **📸 Image Upload:** Effortlessly upload images of yourself and clothing items with our intuitive interface.
@@ -29,6 +28,7 @@ Deploying this application on Render is a breeze. Follow these simple steps:
     *   **Build Command:** `pip install -r requirements.txt`
     *   **Start Command:** `gunicorn app:app`
 3.  Enjoy your live, fully functional virtual try-on web application!
+
 
 
 
